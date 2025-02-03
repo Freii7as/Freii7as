@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Freii7as/Freii7as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ./stats.log 📊
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Freii7as&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Freii7as&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</div>
 
-Here are some ideas to get you started:
+### ./social.sys 🌐
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/-of01g-000?style=for-the-badge&logo=discord&logoColor=00ff00)](https://discord.com/users/of01g)
+[![GitHub](https://img.shields.io/badge/-Freii7as-000?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/Freii7as)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Freii7as/count.svg"/>
+</div>
+
+<!-- Radar Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Freii7as/Freii7as/output/github-contribution-grid-snake-dark.svg" />
+</div>
